@@ -1,0 +1,10 @@
+crossfit_api/
+├── main.py
+├── models.py
+├── schemas.py
+├── crud.py
+├── database.py
+└── routers/
+    ├── members.py
+    ├── classes.py
+    └── competitions.py
